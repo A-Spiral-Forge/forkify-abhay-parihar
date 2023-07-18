@@ -6,7 +6,8 @@ import resultsView from './views/resultsView.js';
 import paginationView from './views/paginationView.js';
 import bookmarksView from './views/bookmarksView.js';
 import addRecipeView from './views/addRecipeView.js';
-import 'core-js/stable';
+// import 'core-js/stable';\
+import 'core.js';
 import 'regenerator-runtime/runtime';
 import { MODAL_CLOSE_SEC } from './config.js';
 
